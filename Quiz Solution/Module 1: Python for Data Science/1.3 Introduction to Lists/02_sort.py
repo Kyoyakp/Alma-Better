@@ -10,7 +10,7 @@ point = [[1,2],[1,1],[1.5,0],0.6]
 point.sort()
 print(point)
 
-# Output = TypeError: '<' not supported between instances of 'float' and 'list'
+# Output = TypeError: '<' not supported between instances of 'float'/'int' and 'list'
   
 ########################################################################################
 
